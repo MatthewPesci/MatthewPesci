@@ -1,6 +1,6 @@
 ### Hi there im Matthew Pesci👋
 
-<br>⚡ About me: Im currently a student at Wayne State Univeristy majoring in Computer Engineering. I've studied Computer Hardware and Software Engineering, this will be personal portfolio of projects where im learning new languages.
+<br>⚡ About me: Im currently a student at Wayne State Univeristy majoring in Computer Engineering. I've studied Computer Hardware and Software Engineering, this will be      my personal portfolio of projects where im learning different languages.
 <br>🔭 I’m currently working on a personal portfolio in JavaScript
 <br>🌱 At the moment im learning JavaScript and React
 <br>📫 You can reach me at: https://www.linkedin.com/in/matthew-pesci-b1762a238/ or MatthewPesci926@gmail.com
