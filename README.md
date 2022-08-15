@@ -1,8 +1,12 @@
 ### Hi there im Matthew Pesci👋
 
+<br>⚡ About me: Im currently a student at Wayne State Univeristy majoring in Computer Engineering. I've studied Computer Hardware and Software Engineering, this will be personal portfolio of projects where im learning new languages.
 <br>🔭 I’m currently working on a personal portfolio in JavaScript
 <br>🌱 At the moment im learning JavaScript and React
-<br>📫 You can reach me at: MatthewPesci926@gmail.com or GQ3319@wayne.edu
+<br>📫 You can reach me at: https://www.linkedin.com/in/matthew-pesci-b1762a238/ or MatthewPesci926@gmail.com
+<br>
+<br>
+<br>
 
 <!--
 **MatthewPesci/MatthewPesci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
