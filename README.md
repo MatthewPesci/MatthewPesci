@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there im Matthew Pesci👋
+
+🔭 I’m currently working on a personal portfolio in JavaScript
+🌱 At the moment im learning JavaScript and React
+📫 You can reach me at: MatthewPesci926@gmail.com or GQ3319@wayne.edu
 
 <!--
 **MatthewPesci/MatthewPesci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
